@@ -12,8 +12,8 @@ const Sort = (props) => {
                     value={props.sort}
                     onChange={props.sortProducts}>
                     <option selected>Ordenar por precio</option>
-                    <option value="desc">Descendiente</option>
-                    <option value="asce">Ascendiente</option>
+                    <option value="desc">Descendente</option>
+                    <option value="asce">Ascendente</option>
                 </select>
             </div>
         )
