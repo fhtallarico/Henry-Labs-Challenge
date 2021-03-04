@@ -1,0 +1,22 @@
+.home-img{
+    position: relative;
+
+    justify-content: center;
+}
+
+.bk-img {
+    position: relative;
+    width: 100%;
+    height: 911px;
+}
+
+.btn-acomprar {
+    position: absolute;
+    top: 50%;
+    width: 250px;
+    left: 43%;
+    
+    text-align: center;
+
+
+}

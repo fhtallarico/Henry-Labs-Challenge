@@ -1,0 +1,37 @@
+.cat-container {
+    background-color: rgb(214, 158, 85);
+    justify-content: space-between;
+}
+
+.prod-container {
+    position: relative;
+    display:-webkit-box;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+
+.prod-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cat-container{
+    background-color: rgb(35, 35, 41);
+}
+
+.filters-nav{
+    display: inline-flex;
+    margin-left: 190px;
+    margin-top: 15px;
+}
+
+.no-product {
+    height:772px;
+    display:flex;
+    width:100%;
+    color: white!important;
+    justify-content: center;
+}

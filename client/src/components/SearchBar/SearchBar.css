@@ -1,0 +1,9 @@
+
+
+    .btn-search {
+        transition: color 1s;
+        display: inline-flex;
+    }
+    .btn-search:hover {
+        color: white;
+    }

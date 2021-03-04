@@ -1,0 +1,29 @@
+.prod-thumbnail {
+    max-height: 345px;
+    max-width: fit-content;
+    object-fit:contain;
+
+}
+.card-container {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(68, 68, 71)!important;
+    color: white!important;
+
+}
+
+
+.img-container {
+    display: flex;
+    height: 350px;
+    width: 250px;
+    padding: 5px;
+    
+}
+
+.ml-btn {
+    position: relative;
+
+    margin-top: 15px;
+    margin-bottom: 10px;
+}

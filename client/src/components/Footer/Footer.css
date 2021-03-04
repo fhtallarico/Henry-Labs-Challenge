@@ -1,0 +1,26 @@
+.nav-footer {
+    top: 100%;
+    align-items: center;
+    width: 100%;
+    position: sticky;
+}
+
+.footer-text {
+    align-self: center;
+    position: relative;
+    margin-left: 15px;
+}
+
+.footer-icon {
+    display:inline;
+    position: relative;
+    margin-left: 15px;
+    justify-content: end;
+}
+
+.info-container {
+    display:flex;
+    min-width: max-content;
+    width: 100%;
+    
+}
